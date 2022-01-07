@@ -1,0 +1,28 @@
+body {
+    background-color: rgba(223, 192, 19, 0.452);
+  }
+  
+  h1 {
+    color: rgb(27, 25, 25);
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+  body {
+    color: rgba(17, 17, 16, 0.897);
+  }
+
+  body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: #1cb3e0;
+    font-family: 'Roboto',sans-serif;
+  }
+
+  
